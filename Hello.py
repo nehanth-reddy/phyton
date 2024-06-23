@@ -1,4 +1,5 @@
-name = input("what's your name? ").strip().title()
+x = int(input("what's x "))
+y = int(input("what's y "))
 
 
-print ("hello, " + name)
+print (x+y)
